@@ -174,3 +174,18 @@ footer {
 #footer-bottom {
     padding-top: 30px;
 }
+/* mental health section styles */
+.mental-health{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+    margin-bottom: 40px;
+    background-color: lightblue;
+}
+div>h1{
+    margin-bottom: 10px; }
+
+    .importance{
+        font: size 20px;;
+    }
