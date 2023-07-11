@@ -123,3 +123,11 @@
     gap: 20px;
   
 }
+/* deals section design */
+
+.deals-container{
+    text-align: center;
+    background: #FFF;
+    padding: 200px 700px 200px 700px;
+    background-image: url("../Rectangle\ 9.png");
+}
