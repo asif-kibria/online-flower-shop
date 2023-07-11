@@ -48,6 +48,71 @@
     padding-top: 90px;
 }
 
+/* features section design */
+.features-container {
+    height: 800px;
+    background: #FFF;
+    text-align: center;
+
+}
+
+.feature-text {
+    padding-top: 200px;
+
+}
+
+.feature-title {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.feature-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    line-height: 30px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.feature-images {
+    display: flex;
+    justify-content: center;
+
+    text-align: center;
+    text-decoration: underline;
+
+
+
+
+}
+
+.first-photo {
+    width: 350px;
+    height: 350px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    margin-right: 20px;
+
+}
+
+.second-photo {
+    width: 350px;
+    height: 350px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    margin-right: 20px;
+   
+}
+
+.third-photo {
+    width: 350px;
+    height: 350px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+
+}
+
 /* hot deal section design */
 
 .hot-deal-container {
@@ -174,18 +239,17 @@ footer {
 #footer-bottom {
     padding-top: 30px;
 }
+
 /* mental health section styles */
-.mental-health{
+.mental-health {
     display: flex;
     justify-content: space-around;
     align-items: center;
-   
+
     margin-bottom: 40px;
     background-color: lightblue;
 }
-div>h1{
-    margin-bottom: 10px; }
 
-    .importance{
-        font: size 20px;;
-    }
+div>h1 {
+    margin-bottom: 10px;
+}
