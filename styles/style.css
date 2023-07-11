@@ -119,15 +119,58 @@
 }
 
 .instagram-images {
-    display:flex;
+    display: flex;
     gap: 20px;
-  
+
 }
+
 /* deals section design */
 
-.deals-container{
+.deals-container {
+    width: 1440px;
+    height: 449px;
     text-align: center;
+    margin: 200px 700px 200px 700px;
     background: #FFF;
-    padding: 200px 700px 200px 700px;
     background-image: url("../Rectangle\ 9.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.deals-text {
+    padding-top: 180px;
+}
+
+.email {
+    width: 500px;
+    height: 50px;
+    border-radius: 8px;
+    background: #FFF;
+    border: none;
+    margin-right: 10px;
+}
+
+footer {
+    height: 400px;
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+
+.footertext {
+
+    padding-top: 150px;
+}
+
+.flower {
+    color: #E55473;
+}
+
+.footer-description {
+    padding-top: 20px;
+}
+
+#footerbottom {
+    padding-top: 30px;
 }
